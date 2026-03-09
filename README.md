@@ -44,6 +44,7 @@ manufacturing-quality-deviation-analysis
 ## Example Visualization
 
 ![Temperature Distribution](outputs/temperature_distribution.png)
+
 ⸻
 
 Dataset
@@ -93,4 +94,5 @@ Author
 Yash Pathak
 Data Analytics / Business Analytics Project
 :::
+
 
