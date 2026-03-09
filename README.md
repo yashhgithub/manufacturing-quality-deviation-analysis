@@ -1,20 +1,25 @@
-Manufacturing Quality Deviation Analysis
+# Manufacturing Quality Deviation Analysis
 
-Project Overview
+Exploratory data analysis of manufacturing process parameters to identify quality deviations and production variability.
+
+---
+
+## Project Overview
 
 This project analyzes manufacturing process data to identify deviations that may impact product quality. Using exploratory data analysis and visualization techniques, the goal is to understand how different process parameters influence variability and potential defects in production.
 
 The analysis focuses on identifying patterns in manufacturing conditions such as temperature, pressure, and machine behavior that may lead to quality issues.
 
-⸻
+---
 
-Objectives
-	•	Perform exploratory data analysis (EDA) on manufacturing process data
-	•	Identify key variables contributing to quality deviations
-	•	Visualize distributions and patterns in process parameters
-	•	Provide insights that could help improve production quality and reduce defects
+## Objectives
 
-⸻
+- Perform exploratory data analysis (EDA) on manufacturing process data
+- Identify key variables contributing to quality deviations
+- Visualize distributions and patterns in process parameters
+- Provide insights that could help improve production quality and reduce defects
+
+---
 
 ## Project Structure
 
@@ -34,6 +39,11 @@ manufacturing-quality-deviation-analysis
 └── README.md
 ```
 
+---
+
+## Example Visualization
+
+![Temperature Distribution](outputs/temperature_distribution.png)
 ⸻
 
 Dataset
@@ -83,3 +93,4 @@ Author
 Yash Pathak
 Data Analytics / Business Analytics Project
 :::
+
